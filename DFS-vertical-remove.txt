@@ -1,0 +1,262 @@
+1. state:
+  OOO  
+  OOO  
+OOOOOOO
+OOO.OOO
+OOOOOOO
+  OOO  
+  OOO  
+2. state:
+  OOO  
+  O.O  
+OOO.OOO
+OOOOOOO
+OOOOOOO
+  OOO  
+  OOO  
+3. state:
+  OOO  
+  O.O  
+O..OOOO
+OOOOOOO
+OOOOOOO
+  OOO  
+  OOO  
+4. state:
+  .OO  
+  ..O  
+O.OOOOO
+OOOOOOO
+OOOOOOO
+  OOO  
+  OOO  
+5. state:
+  O..  
+  ..O  
+O.OOOOO
+OOOOOOO
+OOOOOOO
+  OOO  
+  OOO  
+6. state:
+  O.O  
+  ...  
+O.OO.OO
+OOOOOOO
+OOOOOOO
+  OOO  
+  OOO  
+7. state:
+  O.O  
+  O..  
+O..O.OO
+OO.OOOO
+OOOOOOO
+  OOO  
+  OOO  
+8. state:
+  ..O  
+  ...  
+O.OO.OO
+OO.OOOO
+OOOOOOO
+  OOO  
+  OOO  
+9. state:
+  ..O  
+  ...  
+OO...OO
+OO.OOOO
+OOOOOOO
+  OOO  
+  OOO  
+10. state:
+  ..O  
+  ...  
+..O..OO
+OO.OOOO
+OOOOOOO
+  OOO  
+  OOO  
+11. state:
+  ..O  
+  ...  
+..O.O..
+OO.OOOO
+OOOOOOO
+  OOO  
+  OOO  
+12. state:
+  ..O  
+  ..O  
+..O....
+OO.O.OO
+OOOOOOO
+  OOO  
+  OOO  
+13. state:
+  ...  
+  ...  
+..O.O..
+OO.O.OO
+OOOOOOO
+  OOO  
+  OOO  
+14. state:
+  ...  
+  ...  
+O.O.O..
+.O.O.OO
+.OOOOOO
+  OOO  
+  OOO  
+15. state:
+  ...  
+  ...  
+OOO.O..
+...O.OO
+..OOOOO
+  OOO  
+  OOO  
+16. state:
+  ...  
+  ...  
+OOO.OO.
+...O..O
+..OOO.O
+  OOO  
+  OOO  
+17. state:
+  ...  
+  ...  
+OOO.OOO
+...O...
+..OOO..
+  OOO  
+  OOO  
+18. state:
+  ...  
+  ...  
+OOO.OOO
+..OO...
+...OO..
+  .OO  
+  OOO  
+19. state:
+  ...  
+  O..  
+OO..OOO
+...O...
+...OO..
+  .OO  
+  OOO  
+20. state:
+  ...  
+  O..  
+..O.OOO
+...O...
+...OO..
+  .OO  
+  OOO  
+21. state:
+  ...  
+  ...  
+....OOO
+..OO...
+...OO..
+  .OO  
+  OOO  
+22. state:
+  ...  
+  ...  
+....OOO
+....O..
+...OO..
+  .OO  
+  OOO  
+23. state:
+  ...  
+  ..O  
+.....OO
+.......
+...OO..
+  .OO  
+  OOO  
+24. state:
+  ...  
+  ..O  
+....O..
+.......
+...OO..
+  .OO  
+  OOO  
+25. state:
+  ...  
+  ...  
+.......
+....O..
+...OO..
+  .OO  
+  OOO  
+26. state:
+  ...  
+  ...  
+.......
+....O..
+.....O.
+  .OO  
+  OOO  
+27. state:
+  ...  
+  ...  
+.......
+....O..
+....OO.
+  .O.  
+  OO.  
+28. state:
+  ...  
+  ...  
+.......
+.......
+.....O.
+  .OO  
+  OO.  
+29. state:
+  ...  
+  ...  
+.......
+.......
+.....O.
+  .OO  
+  ..O  
+30. state:
+  ...  
+  ...  
+.......
+.......
+....OO.
+  .O.  
+  ...  
+31. state:
+  ...  
+  ...  
+.......
+.......
+...O...
+  .O.  
+  ...  
+32. state:
+  ...  
+  ...  
+.......
+...O...
+.......
+  ...  
+  ...  
+Optimum solution found.
+Search Method: Depth-First Search.
+Time Limit: 60 minutes.
+Runtime: 51.8167 minutes or 3109 seconds.
+Number of expanded nodes during the search: 932074602
+Maximum number of nodes that stored in the memory at any moment: 159
